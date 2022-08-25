@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CounterWideView">
+        <attr name="buttonsSize" format="dimension"/>
+        <attr name="textCounterSize" format="dimension"/>
+        <attr name="backgroundColor" format="color"/>
+        <attr name="backgroundRipple" format="color"/>
+        <attr name="disabledBackgroundColor" format="color"/>
+        <attr name="backgroundRadius" format="dimension"/>
+        <attr name="minusButtonBackground" format="integer"/>
+        <attr name="minusButtonSrc" format="integer"/>
+        <attr name="plusButtonBackground" format="integer"/>
+        <attr name="plusButtonSrc" format="integer"/>
+        <attr name="marginInDoorPercents" format="integer"/>
+        <attr name="marginType" format="enum">
+            <enum name="MARGIN_FROM_TEXTVIEW" value="0"/>
+            <enum name="MARGIN_FROM_BUTTONS" value="1"/>
+        </attr>
+        <attr name="maxCountLimit" format="integer"/>
+        <attr name="minCountLimit" format="integer"/>
+        <attr name="buttonsTint" format="integer"/>
+        <attr name="srcButtonsColor" format="color"/>
+        <attr name="backgroundButtonsColor" format="integer"/>
+        <attr name="disabledSrcButtonsColor" format="color"/>
+        <attr name="disabledBackgroundButtonsColor" format="color"/>
+    </declare-styleable>
+</resources>
