@@ -1,4 +1,4 @@
-# CustomView_Counter
+# CustomView Counter
 My CustomView(ViewGroup). It was written by OOP, SOLID principles and because of this, there may be optimization problems. But while they are not found, I left everything as it was
 
 ____
