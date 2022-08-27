@@ -4,7 +4,5 @@ My CustomView(ViewGroup). It was written by OOP, SOLID principles and because of
 ____
 # An example of that it looks like
 
-
-
-https://user-images.githubusercontent.com/55616637/187038179-a4287b5b-f20a-4601-a943-14fbd6b2f03f.mp4
+![](https://user-images.githubusercontent.com/55616637/187038223-7144427c-6dfe-42e5-9719-e78bd0e855bb.gif)
 
