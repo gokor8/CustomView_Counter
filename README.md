@@ -3,6 +3,6 @@ My CustomView(ViewGroup). It was written by OOP, SOLID principles and because of
 
 ____
 # An example of that it looks like
+![](https://user-images.githubusercontent.com/55616637/187038483-98fa9e7d-510f-4e11-a205-1273b1489c66.gif)
 
-![](https://user-images.githubusercontent.com/55616637/187038223-7144427c-6dfe-42e5-9719-e78bd0e855bb.gif)
 
